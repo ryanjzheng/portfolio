@@ -17,17 +17,13 @@ export default function Page() {
       </a>
 
       <h1 className="mb-8 text-2xl font-medium tracking-tight">
-        Welcome to my digital plot of land ...
+        Welcome to my corner of the internet ...
       </h1>
 
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          Fourth year student at the University of Maryland studying computer science,
+          I'm a fourth year student at the University of Maryland studying computer science,
           with a deep passion for full stack software engineering.
-        </p>
-        <p>
-          When I'm not coding, you'll find me at the gym - I'm always eager to discuss
-          anything lifting-related, whether it's powerlifting or bodybuilding.
         </p>
         <p>
           Check out my projects and experience to see what I've been working on,
