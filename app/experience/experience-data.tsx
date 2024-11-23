@@ -3,14 +3,14 @@ export interface Experience {
   company: string;
   year: string;
   description: string;
-  url?: string;  // Made optional with '?' since not all experiences have URLs
+  url?: string;
 }
 
 export const experiences: Experience[] = [
   {
     title: "Software Engineer Associate Consultant",
     company: "CapTech",
-    year: "Starting Sep 2025",
+    year: "Starting Sep 2025 ...",
     description:
       ""
   },
