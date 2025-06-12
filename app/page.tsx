@@ -22,7 +22,7 @@ export default function Page() {
 
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          I'm a fourth year student at the University of Maryland studying computer science,
+          I'm a recent CS grad from the University of Maryland
           with a deep passion for full stack software engineering.
         </p>
         <p>
