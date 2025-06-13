@@ -30,7 +30,7 @@ export default function Page() {
           or visit my {" "}
           <a href={socialLinks.github} target="_blank">
             GitHub
-          </a>{" "} 
+          </a>{" "}
           to explore my code. I'm always open to connecting and
           collaborating on interesting projects.
         </p>
