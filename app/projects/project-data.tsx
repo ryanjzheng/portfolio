@@ -10,7 +10,7 @@ export const projects: Project[] = [
     title: "Yugen Galleries E-commerce Website",
     year: 2025,
     description:
-      "I combined my love for web development and woodworking by building an e-commerce site from scratch to sell my handmade wooden lanterns. The frontend is Next.js for a fully customizable experience, while a headless Shopify backend powers product management and checkout—so I get the best of both worlds: bespoke design with Shopify’s reliable infrastructure.",
+      "I combined my love for web development and woodworking by building an e-commerce site from scratch to sell my handmade wooden lanterns. The frontend is Next.js for a fully customizable experience, while a headless Shopify backend powers product management and checkout—so I get the best of both worlds: my own design with Shopify’s reliable infrastructure.",
     url: "https://www.yugengalleries.com/",
   },
   {
